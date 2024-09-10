@@ -3,6 +3,6 @@ Today, I created my first GitHub account and repository. I'm excited to start us
 # September 10, 2024
 This is an example entry 
 # September 6, 2024
-i havent done any python
+i worked on the drone and it was fun
 # september 9, 2024
 i couldve listned better step by step from teacher
