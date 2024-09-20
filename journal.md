@@ -6,3 +6,5 @@ This is an example entry
 i worked on the drone and it was fun
 # september 9, 2024
 i couldve listned better step by step from teacher
+# September 20, 2024 
+Free week
