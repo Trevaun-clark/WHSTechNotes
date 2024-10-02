@@ -8,3 +8,7 @@ i worked on the drone and it was fun
 i couldve listned better step by step from teacher
 # September 20, 2024 
 Free week
+# september 27, 2024
+i did sphero balls 
+# October 4, 2024
+im doing codeing
