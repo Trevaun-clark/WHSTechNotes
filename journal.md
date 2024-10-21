@@ -6,11 +6,15 @@ This is an example entry
 i worked on the drone and it was fun
 # september 9, 2024
 i couldve listned better step by step from teacher
-# September 20, 2024 o
+# September 20, 2024
 Free week
 # september 27, 2024
 i did sphero balls 
 # October 4, 2024
 im doing codeing
 # October 10, 2024
+i did codeing
+# October 15, 2024
+i did codeing
+# October 21, 2024
 i did codeing
