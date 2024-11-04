@@ -20,3 +20,5 @@ i did codeing
 i did codeing
 # November 1, 2024
 i did sphero balls
+# November 4, 2024
+I coded and it was really fun i learned new stuff
