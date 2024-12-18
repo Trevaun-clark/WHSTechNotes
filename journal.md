@@ -28,3 +28,5 @@ I coded and learned bunches of new stuff
 I coded and learned new things 
 # December 9, 2024 
 I did sphero balls with joel
+# December 16, 2024
+I did spehero balls 
