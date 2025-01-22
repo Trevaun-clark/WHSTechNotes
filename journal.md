@@ -30,3 +30,9 @@ I coded and learned new things
 I did sphero balls with joel
 # December 16, 2024
 I did spehero balls 
+# January 8, 2025
+i did coding
+# January 13, 2025
+i coded with joel
+# January 22, 2025
+I am working on making a checker board by code
