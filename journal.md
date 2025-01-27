@@ -35,6 +35,8 @@ i did coding
 # January 13, 2025
 i coded with joel
 # January 22, 2025
+i coded with joel
+# January 27, 2025
  | Name     | Car | Mistake |
     | :------- | :-- | :------ |
     | Jimmy    |honda civic     | Drilled hole in gas tank        |
