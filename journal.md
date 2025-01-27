@@ -35,4 +35,9 @@ i did coding
 # January 13, 2025
 i coded with joel
 # January 22, 2025
-I am working on making a checker board by code
+ | Name     | Car | Mistake |
+    | :------- | :-- | :------ |
+    | Jimmy    |honda civic     | Drilled hole in gas tank        |
+    | Kayla    |GMC sierra     |   Fixed wrong problem      |
+    | Bart     | Toyota corolla    |    Left stains on carpet     |
+    | Harrison |  Subauru forester   |  fixed wrong problem       |
