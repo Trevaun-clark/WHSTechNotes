@@ -37,9 +37,9 @@ i coded with joel
 # January 22, 2025
 i coded with joel
 # January 27, 2025
- | Name     | Car | Mistake |
-    | :------- | :-- | :------ |
-    | Jimmy    |honda civic     | Drilled hole in gas tank        |
-    | Kayla    |GMC sierra     |   Fixed wrong problem      |
-    | Bart     | Toyota corolla    |    Left stains on carpet     |
-    | Harrison |  Subauru forester   |  fixed wrong problem       |
+| Name     | Car | Mistake |
+| :------- | :-- | :------ |
+| Jimmy    |honda civic     | Drilled hole in gas tank  |
+| Kayla    |GMC sierra     |   Fixed wrong problem      |
+| Bart     | Toyota corolla    |    Left stains on carpet |
+| Harrison |  Subauru forester   |  fixed wrong problem  |
