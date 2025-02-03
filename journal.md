@@ -43,3 +43,5 @@ i coded with joel
 | Kayla    |GMC sierra     |   Fixed wrong problem      |
 | Bart     | Toyota corolla    |    Left stains on carpet |
 | Harrison |  Subauru forester   |  fixed wrong problem  |
+# February 3, 2025
+I coded checkers
