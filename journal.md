@@ -45,3 +45,9 @@ i coded with joel
 | Harrison |  Subauru forester   |  fixed wrong problem  |
 # February 3, 2025
 I coded checkers
+# February 11, 2025
+I did spehero balls
+# February 18, 2025 
+I coded with joel
+# February 24, 2025
+I raced sphero balls with joel
