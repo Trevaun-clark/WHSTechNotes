@@ -55,3 +55,7 @@ I raced sphero balls with joel
 I did sphero balls
 # March 24, 2025
 I did python instituit
+# April 7, 2027
+I coded with joel
+# April 13, 2025
+i did sphero balls
