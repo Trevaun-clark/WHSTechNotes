@@ -59,3 +59,13 @@ I did python instituit
 I coded with joel
 # April 13, 2025
 i did sphero balls
+# April 22, 2025
+I did sphero balls
+# April 28, 2025
+I did sphero balls
+# May 5, 2025
+I coded 
+# May 12, 2025
+I coded with joel 
+# May 19, 2025
+I did sphero balls
